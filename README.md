@@ -31,7 +31,7 @@ Clone Pinterest ([MedSpire](https://github.com/sekak/pinterest-clone))
 
 ###
 
-<img src="https://raw.githubusercontent.com/sekak/sekak/output/snake.svg" alt="Snake animation" />
+![image](https://github.com/sekak/sekak/blob/output/ocean.gif?raw=true)
 
 ###
 
