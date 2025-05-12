@@ -24,7 +24,7 @@ Clone Pinterest ([MedSpire](https://github.com/sekak/pinterest-clone))
 
 ## 📊 **GitHub Stats**  
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sekak&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sekak&layout=compact&theme=radical&hide_border=true" />
 </div>
